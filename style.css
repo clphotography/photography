@@ -10,7 +10,6 @@ h2 {
 
 table, td {
   border: "3" solid black;
-  border-collpase:collapse;
 }
 td{
   
