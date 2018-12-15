@@ -13,5 +13,9 @@ table, td {
   border-collpase:collapse;
 }
 td{
+  
   padding: "15";
+}
+ table {
+   float: right;
 }
