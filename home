@@ -3,6 +3,6 @@
 <head>
   <link rel="stylesheet"href="https.//clphotography.github.io/photography/style.css">
 <body>
-  <p> <a class=names> William </a></p>
+  <p class=names> William </p>
 </body>
 </html>
