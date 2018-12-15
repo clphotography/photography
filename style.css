@@ -7,3 +7,11 @@ font-color:#1a1a1a
 h2 {
   font-size:"220";
 }
+
+table, td {
+  border: "3" solid black;
+  border-collpase:collapse;
+}
+td{
+  padding: "15";
+}
