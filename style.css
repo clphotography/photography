@@ -8,14 +8,9 @@ h2 {
   font-size:"220";
 }
 
-table, td {
-  border: "3" solid black;
-}
-td{
-  font-size: "100";
-  font-align: center;
-  padding: "15";
-}
- table {
-   float: right;
+figure {
+  float: right;
+  width: 30%;
+    text-align: center;
+  border: thin black solid;
 }
