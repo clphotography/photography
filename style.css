@@ -9,8 +9,8 @@ h2 {
 }
 
 figure {
-  float: right;
-  width: 30%;
+  float: center;
+  width: "600";
     text-align: center;
   border: thin #000000 solid;
   border-top: none;
