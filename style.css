@@ -12,5 +12,11 @@ figure {
   float: right;
   width: 30%;
     text-align: center;
-  border: thin black solid;
+  border: thin #000000 solid;
+  border-top: none;
+}
+
+figcaption{
+  border: thin #000000 solid;
+  border-bottom: none;
 }
